@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RoboFriends/static/css/main.2525a201.css",
+    "main.js": "/RoboFriends/static/js/main.754dd0bc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/RoboFriends/static/js/787.28cb0dcd.chunk.js",
+    "static/media/SuperMarioGalaxy.woff": "/RoboFriends/static/media/SuperMarioGalaxy.4c5f609095cf497743e4.woff",
+    "static/media/SuperMarioGalaxy.woff2": "/RoboFriends/static/media/SuperMarioGalaxy.46a2aca0f15e8210a2cd.woff2",
+    "index.html": "/RoboFriends/index.html",
+    "main.2525a201.css.map": "/RoboFriends/static/css/main.2525a201.css.map",
+    "main.754dd0bc.js.map": "/RoboFriends/static/js/main.754dd0bc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/RoboFriends/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2525a201.css",
+    "static/js/main.754dd0bc.js"
+  ]
+}
