@@ -1,4 +1,4 @@
-A responsive web application that allows users to search for a robot friend
+A responsive web application that allows users to search for a robot friend.
 live demo at: [haileytt.github.io/robofriends/](haileytt.github.io/robofriends/)
 
 To run the project:
